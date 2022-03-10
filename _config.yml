@@ -30,7 +30,7 @@ twitter_username: venulat
 github_username:  venulat
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
