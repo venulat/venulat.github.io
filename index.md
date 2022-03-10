@@ -5,7 +5,7 @@ title: "Home"
 
 [About me and links](/about/)
 
-## Recent posts
+# Recent posts
 
 <div class="blog-index">  
   {% assign post = site.posts.first %}
